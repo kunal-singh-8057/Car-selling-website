@@ -1,0 +1,72 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.form1
+{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+}
+
+.formbackimage{
+    height: 70vh;
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 10%;
+}
+
+
+.formsets
+{
+    background-color: #242124 ;
+    position: absolute;
+    margin-top: 8%;
+    border: 3px solid orangered;
+    width: 26%;
+    margin-left: 8%;
+    height: 70vh;
+    border-radius: 10px;
+}
+
+.formsets h1 
+{
+    color: white;
+    font-size: 45px;
+    margin-left: 28%;
+    margin-top: 5%;
+}
+
+.formsets input
+{
+    margin-top: 10%;
+    border: none;
+    background-color: transparent;
+    border-radius: 5px;
+    width: 75%;
+    margin-left: 10%;
+    height: 5vh;
+    border: none;
+    border-bottom: 1px solid orange;
+    color: white;
+
+}
+
+.formsets button
+{
+    background-color: orange;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-top: 10%;
+    margin-left: 32%;
+}
+
+.formsets p
+{
+    color: white;
+    margin-left: 12%;
+}
